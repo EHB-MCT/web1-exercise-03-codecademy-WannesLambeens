@@ -23,4 +23,6 @@ a{
     font-weight: bold;
     color: #FFF;
 }
-
+a:hover {
+    background-color: #333;
+}
