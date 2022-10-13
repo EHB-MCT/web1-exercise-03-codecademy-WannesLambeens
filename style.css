@@ -1,0 +1,26 @@
+body{
+    background-color: #e9eaea;
+    font-family: sans-serif;
+    margin: 50px;
+}
+
+h1{
+    color: red;
+}
+
+p{
+    margin-bottom: 30px;
+}
+/*aanspreken <span> </span> om tweede deel van woord te verkleuren*/
+.grijs{
+    color:#939598;
+}
+
+a{
+    background-color:#f65b5c;
+    text-decoration: none;
+    padding: 15px;
+    font-weight: bold;
+    color: #FFF;
+}
+
